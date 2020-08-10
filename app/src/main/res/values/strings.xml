@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaCalificada6</string>
+    <string name="label_code">Código</string>
+    <string name="label_description">Descripción</string>
+    <string name="label_price">Precio</string>
+    <string name="button_notify">Notificar Pedido</string>
+    <string name="button_more">Confirmar</string>
+</resources>
